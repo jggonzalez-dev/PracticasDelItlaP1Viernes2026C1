@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+=======
+
+
+otro texto bacano
+
+>>>>>>> parent of f140810 (prueba mal hecha para acttualizarlo)
